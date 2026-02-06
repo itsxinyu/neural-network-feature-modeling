@@ -1,7 +1,6 @@
-# neural-network-feature-modeling
+# Neural-Network-Feature-Modeling
 Interpretable neural network modeling with feature-driven inputs (SHAP &amp; LIME) in python
 
-## Neural Network Feature Modeling
 ### Overview
 This project applies neural-network-based feature modeling to option market data (SPX options) to predict changes in implied volatility, with a focus on model interpretability using SHAP and LIME.
 
